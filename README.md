@@ -2,7 +2,7 @@
 
 ## Mapty-App
 
-### URL:https://lucky-queijadas-affd12.netlify.app/
+### URL: https://lucky-queijadas-affd12.netlify.app/
 
 #### In this project I worked with:
 
